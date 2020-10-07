@@ -1,2 +1,2 @@
-# jhu-web
+# jhu_web
 Coursera: HTML, CSS, and Javascript for Web Developers by Johns Hopkins University
